@@ -1,6 +1,6 @@
 # 🐾 App Animal
 
-O **App Animal** é uma aplicação simples desenvolvida em **Java**, com **HTML** e **CSS**, que permite aos usuários realizar operações básicas de gerenciamento de animais. Ideal para fins educativos e para praticar lógica de programação, estruturas de dados e manipulação de interfaces.
+O **App Animal** é uma aplicação simples desenvolvida em **Python**, com **HTML** e **CSS**, que permite aos usuários realizar operações básicas de gerenciamento de animais. Ideal para fins educativos e para praticar lógica de programação, estruturas de dados e manipulação de interfaces.
 
 ## 🎯 Funcionalidades
 
