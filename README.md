@@ -11,7 +11,7 @@ O **App Animal** é uma aplicação simples desenvolvida em **Python**, com **HT
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Java** – Lógica do sistema
+- **Python** – Lógica do sistema
 - **HTML** – Estrutura da interface
 - **CSS** – Estilização da interface
 - **Git & GitHub** – Controle de versão
